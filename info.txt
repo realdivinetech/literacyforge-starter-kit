@@ -9,7 +9,7 @@
 0xd311F0688D1f771141E636b0F7936c3Abf6FDFDd
 
 2. In which country do you currently live?
-Answer: Nigeria
+Answer: United States
 
 3. Gender – Male / Female / Other
 Answer: Male
@@ -18,4 +18,4 @@ Answer: Male
 Answer: 18–24
 
 5. English Level – Beginner, Elementary, Intermediate, Upper-intermediate, Advanced, Native/Bilingual
-Answer: Upper-intermediate
+Answer: Advanced
